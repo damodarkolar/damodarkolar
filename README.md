@@ -26,6 +26,7 @@
 <h2>My Stats :</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damodarkolar&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damodarkolar&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
