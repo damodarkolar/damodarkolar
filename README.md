@@ -5,7 +5,6 @@
 
 <h6>I am full stack Web developer, passionate about coding and intrested to learn the new technologies to build amazong tech products. </h6>
 
-<img src='https://camo.githubusercontent.com/d2297a85e6b18ba90a3cf40753a7dad1060d3dd321c31fe2f4965d10ea690fac/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d73686977616d2d433131342e73686977616d2d43313134'/>
 
 <h2>Contact Me At :</h2>
 <div style="display:flex;flex-wrap:wrap;">
@@ -27,3 +26,4 @@
  <h4>Damodara Gupta's GitHub Stats</h4>
  <div style="display: flex;">
  <img style="width:400px; padding:20px:" src=''/><img style="width:400px; padding:20px:"  src=''/></div>
+ <img src='https://camo.githubusercontent.com/d2297a85e6b18ba90a3cf40753a7dad1060d3dd321c31fe2f4965d10ea690fac/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d73686977616d2d433131342e73686977616d2d43313134'/>
