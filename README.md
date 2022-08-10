@@ -23,7 +23,10 @@
   <img src="https://camo.githubusercontent.com/d20c06f1854face8c434a4fa2ffa62a2c6d52368120cc7dafd77166da5732caf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d7768697465"/>
 </div>
 
- <h4>Damodara Gupta's GitHub Stats</h4>
- <div style="display: flex;">
- <img style="width:400px; padding:20px:" src=''/><img style="width:400px; padding:20px:"  src=''/></div>
- <img src='https://camo.githubusercontent.com/d2297a85e6b18ba90a3cf40753a7dad1060d3dd321c31fe2f4965d10ea690fac/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d73686977616d2d433131342e73686977616d2d43313134'/>
+<h2>My Stats :</h2>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damodarkolar&show_icons=true&theme=radical)
+
+
+
+
