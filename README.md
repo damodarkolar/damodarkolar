@@ -3,12 +3,16 @@
 
 <img src='https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966'/>
 
-<h5>As an aspiring full-stack web developer, I possess a deep fascination for learning new technologies and crafting innovative solutions to contemporary challenges. I thrive on creating tech products that streamline processes and solve real-world problems. My adaptable mindset enables effective collaboration with individuals of diverse technological perspectives, while my love for travel enriches my understanding of varying mindsets and cultures. </h5>
+<p>As an aspiring full-stack web developer, I possess a deep fascination for learning new technologies and crafting innovative solutions to contemporary challenges. I thrive on creating tech products that streamline processes and solve real-world problems. My adaptable mindset enables effective collaboration with individuals of diverse technological perspectives, while my love for travel enriches my understanding of varying mindsets and cultures. </p>
 
 
 <h2>Contact Me At :</h2>
 <div style="display:flex;flex-wrap:wrap; justify-content: space-between; width:1200px">
-  <a target='_blanck' href='https://www.linkedin.com/in/damodaraguptaps' target="_blanck><img src=''/></a><a href="mailto:damoarkolar@gmail.com" target='_blanck'><img src="https://camo.githubusercontent.com/2e31b0d0e07e5431ee3f85689b488016d52a4fb97e523ae497023a9746e2e52e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334431343833362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/></a>
+  <a target='_blanck' href='https://www.linkedin.com/in/damodaraguptaps' target="_blanck>
+    <img src="https://camo.githubusercontent.com/dbffc0d31f25ffd8a78aef1eb26cd3a9bbd77b70e6ca9f0a1984e795fa75047c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3065373661383f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465"/>
+  </a>
+  <a href="mailto:damoarkolar@gmail.com" target='_blanck'>
+    <img src="https://camo.githubusercontent.com/6e133492309a603a7f3ca37ed09ffd81f63a5efc48732b6ed7258e078849ffdd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576562736974652d3362353939383f7374796c653d666c61742d737175617265266c6f676f3d676f6f676c652d6368726f6d65266c6f676f436f6c6f723d7768697465"/></a>
  </div> 
  
 <h2>Tech Stack :</h2>
