@@ -65,21 +65,22 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-<h2>📊 GitHub Stats</h2>
+<h2>📊 My GitHub Stats</h2>
 
-<p>
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=damodarkolar&show_icons=true&theme=radical&hide_border=true"
-    alt="Damodara Gupta GitHub Stats"
+    src="https://github-stats-extended.vercel.app/api?username=damodarkolar&show_icons=true&theme=radical"
+    alt="GitHub Stats"
   />
 </p>
 
-<p>
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=damodarkolar&layout=compact&theme=radical&hide_border=true"
-    alt="Damodara Gupta Top Languages"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=damodarkolar&layout=compact&theme=radical"
+    alt="Top Languages"
   />
 </p>
+
 
 <h2>🚀 What I Like Building</h2>
 
