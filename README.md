@@ -68,11 +68,17 @@
 <h2>📊 GitHub Stats</h2>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=damodarkolar&show_icons=true&theme=radical&hide_border=true" alt="Damodara's GitHub Stats"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=damodarkolar&show_icons=true&theme=radical&hide_border=true"
+    alt="Damodara Gupta GitHub Stats"
+  />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damodarkolar&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=damodarkolar&layout=compact&theme=radical&hide_border=true"
+    alt="Damodara Gupta Top Languages"
+  />
 </p>
 
 <h2>🚀 What I Like Building</h2>
